@@ -71,3 +71,11 @@ m
 =src/for_myself_testing/test_SOLID/ISP_test/test1/Swallow.java,0\c\0c4033d2bf6f19be7f0733dd1b5ac09f143726c9
 m
 =src/for_myself_testing/test_SOLID/ISP_test/test1/Pinguin.java,8\d\8d7892091c7c0ec19c1a60da17ce5096904d2ff7
+j
+:src/for_myself_testing/test_SOLID/DIP_test/test1/Auth.java,e\7\e7d552b776187154f9a5105404526913dfa719d2
+q
+Asrc/for_myself_testing/test_SOLID/DIP_test/test1/SimpleLogin.java,c\d\cd8a4750b6441cff609e1b6ee374394bc6cbe961
+j
+:src/for_myself_testing/test_SOLID/DIP_test/test1/User.java,f\e\fea5995bdf975ef2ba70f5d31fb0b8a89ac0ce5e
+r
+Bsrc/for_myself_testing/test_SOLID/DIP_test/test1/LoginManager.java,d\9\d97a39f14e4618b05531565d55bb09184c7e63d4

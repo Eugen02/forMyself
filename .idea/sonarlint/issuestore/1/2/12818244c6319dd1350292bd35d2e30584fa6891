@@ -1,0 +1,5 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â¼ÑÂ8šÆ©Â.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ı×
+R
+java:S1610"5Convert the abstract class "shape" into an interface.(â¼ÑÂ8šÆ©Â.
