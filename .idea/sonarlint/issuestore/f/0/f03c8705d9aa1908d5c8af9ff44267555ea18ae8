@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥ñÈúÿÿÿÿ8Šå„Ã.
+>	java:S131""Add a default case to this switch.(÷ÉÁö8¨Úâ„Ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«²¬À8¨Úâ„Ã.
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(÷ÉÁö8¨Úâ„Ã.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß´Ü¿øÿÿÿÿ
+p
+java:S3824	"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(åç—«úÿÿÿÿ8ÕÉË…Ã.
